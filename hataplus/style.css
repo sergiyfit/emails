@@ -1,0 +1,155 @@
+
+.global_table{
+    
+    width: 600px; 
+    /* margin:0 auto;  */
+    background-color: #ffffff;
+    font-family: 'Arial'; 
+    font-size: 14px;
+    line-height: 24px;
+    color: #666666;
+}
+img{
+    display: inline-block;
+}
+p{
+    margin: 0;
+    text-align: left;
+}
+
+.main_p{
+    display: inline-block;
+    padding-bottom: 20px;
+}
+h1{
+    text-align: left;
+    color: #24242b;
+} 
+
+.padding_table{
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 31px;     
+    padding-right: 31px;    
+}
+
+.table_phone{
+    text-align: right;
+}
+
+.table_phone_num{
+    font-size: 16px;
+    line-height: 24px;
+    color: #25252c;
+    font-weight: bold;
+}
+
+.button_reference{
+    display: inline-block;
+
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+    border-radius: 20px;
+
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.btn-yellow{
+    background-color: #fd8300;    
+}
+
+.btn-blue{
+    background-color: #1f1f56;
+}
+
+h2{
+    text-align: left;
+    font-size: 16px;
+    color: #1f1f56;
+    font-weight: bold;
+
+    margin: 0;
+
+    padding-top: 0;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.slides_table{
+    margin: 0;
+    display: inline-block;
+    padding-top: 25px;
+    padding-bottom: 25px; 
+}
+.slides_table p{
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    font-size: 13px;
+    line-height: 19px;
+    color: #9999a6;
+}
+
+.table_phone_italic{
+    font-size: 13px;
+    line-height: 18px;
+    color: #9999a6;
+    font-style: italic;
+}
+
+.table_carusel{
+    text-align: center;
+    font-size: 13px;
+    line-height: 18px;
+    background-color: #ededf5;
+    padding-top: 37px;
+    padding-bottom: 33px;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
+
+.table_carusel strong{
+    display: inline-block;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    font-size: 14px;
+    color: #24242b;
+    font-weight: bold;
+}
+
+.bcg-yellow{
+    color: white;
+    background-color: #fd8300;
+    text-align: center;
+    background-repeat: repeat;
+    background-image: url("img/bcg-repeat.png");
+}
+
+.social_container{
+    padding-top: 20px;
+    padding-bottom: 20px;  
+}
+
+.social_btn{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.footer_table{
+    background-color: #08081a;
+    text-align: center;
+}
+
+.footer_table a{
+    color: #fd8300;
+    text-decoration: none;
+}
